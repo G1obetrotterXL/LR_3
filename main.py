@@ -1,11 +1,11 @@
 def input_valid():
     pass
 
-def x2(x):
+def x2():
     pass
 
-def x3_1(x):
+def x3_1():
     pass
 
-def collatz(x):
+def collatz():
     pass
