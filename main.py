@@ -1,3 +1,4 @@
+sp = []
 def input_valid():
     pass
 
