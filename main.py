@@ -13,8 +13,10 @@ def x2(x):
     sp.append(int(x))
     return collatz(x)
 
-def x3_1():
-    pass
+def x3_1(x):
+    x = int(x * 3 + 1)
+    sp.append(x)
+    collatz(x)
 
 def collatz():
     pass
